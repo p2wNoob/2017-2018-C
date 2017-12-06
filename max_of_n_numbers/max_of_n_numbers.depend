@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511117645 source:d:\c projects\max_of_n_numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511117664 source:d:\c projects\max_of_n_numbers\project.c
+	<stdio.h>
+

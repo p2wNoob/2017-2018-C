@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1446667744 source:d:\c projects\avaragescore\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512410435 source:d:\c projects\avaragescore\project.c
+	<stdio.h>
+
