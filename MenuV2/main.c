@@ -12,11 +12,10 @@ int Avarage()
     while (numbers<1);
 
     do
-    { do
-        {
+    {
         printf("\nScore=");
         scanf("%f",&score);
-        }while(score<2 || score>6);
+
         sum=sum+score;
         count++;
     }
@@ -87,10 +86,13 @@ char c1;
 do
 {
     c1=getch();
-    if(c1==80)
+    if(c1==-32)
+        {c1=getch();
+        if (c1==80)
         {opp++; system("cls");}
-    else if (c1==72)
+        else if (c1==72)
         {opp--; system("cls");}
+        else system("cls");}
     else system("cls");
     if (opp==5)
         opp=1;
