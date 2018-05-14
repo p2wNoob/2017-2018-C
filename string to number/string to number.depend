@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525718043 source:d:\c projects\string to number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
